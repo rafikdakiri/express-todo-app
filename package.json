@@ -1,0 +1,24 @@
+{
+  "name": "express-todo-app",
+  "version": "1.0.0",
+  "description": "A simple Express.js Todo App",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.12.0",
+    "node": "^14.15.0",
+    "nodemon": "^2.1.0",
+    "dotenv": "^11.1.0"
+  },
+  "repository": "https://github.com/rafikdakiri/express-todo-app",
+  "keywords": [
+    "express",
+    "todo",
+    "nodejs",
+    "boilerplate"
+  ],
+  "author": "ChatCody",
+  "license": "MIT"
+}
